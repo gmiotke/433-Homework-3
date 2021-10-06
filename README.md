@@ -3,6 +3,8 @@ Homework 3
 Graham Miotke
 10/4/2021
 
+Link to github: <https://github.com/gmiotke/433-Homework-3>
+
 Introduction:
 
 The question we were tasked with finding is what time of the day should
@@ -231,4 +233,8 @@ wind speed. Surprisingly, there was also a positive correlation between
 mean temperature and average delay. This could be due to many factors,
 such as number of flights. However, this finding also confirms the idea
 that the early morning hours and the later night hours are the optimal
-time to schedule a flight.
+time to schedule a flight. Unlike wind speed, temperature did not seem
+to differ much between the different origin airports. In conclusion,
+weather would seem to suggest that the best flying time is still the
+morning and late night, but the worst time to schedule a flight is
+actually a bit earlier than the other analysis suggests.
